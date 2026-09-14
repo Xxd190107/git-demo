@@ -2,6 +2,16 @@ includes{
     #include"gDiagFuncLib_for_TM.cin"
 }
 
+varibles{
+    int a;
+    float b;
+}
+
+testcase TC_aaaaa(){
+    a = 5;
+    b = 3.14;
+}
+
 main {
     int a = 10;
     int b = 20;
